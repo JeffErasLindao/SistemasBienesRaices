@@ -1,2 +1,2 @@
-# SistemasBienesRaices
-Sistema de Administracion de compra de casas, con envio de correo electronico como notificacion 
+# ProyectoPOO_1erParcial
+Repositorio remoto proyecto del 1er parcial
